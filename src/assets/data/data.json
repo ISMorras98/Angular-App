@@ -1,0 +1,87 @@
+
+    {
+        "name": "Iñaki Santiago Morras" ,
+        "presentation": "desarrollador web en formacion" ,
+        "age": 24,
+        "formation":"geologia-desarrollo web",
+        "description":"Soy Iñaki Santiago Morras, resido actualmente en Cordoba Capital donde me estoy capacitando en el desarrollo web, mientras finalizo mis estudios universitarios en la licenciatura de Geologia, mi objetivo es poder complementar el desarrollo web y la programacion con los fundamentos de las ciencias geologicas",
+        "experience":[
+            {"index": 0,
+              "work":"nombre trabajo",
+            "description": "descripcion de trabajo"
+            },
+            {"index": 1,
+            "work":"nombre trabajo 2",
+             "description":"descripcion de trabajo"
+            }
+        ],
+        "studies": [
+            {"index": 0,
+             "name":"desarrollo web",
+             "curso":"Argentina Programa",
+             "description":"Frontend-Backend",
+             "isactive": true
+            },
+            {"index":1,
+             "name":"Geologia",
+             "university":"UNC-FCEFyN",
+             "description":"Licenciatura en Geologia + conocimientos en ciencias basicas",
+             "isactive":true
+            }
+        ],
+        "skills": [
+            {"index":0,
+             "name":"HTML",
+             "value":40
+            },
+            {"index":1,
+             "name":"CSS",
+             "value":30
+            },
+            {"index":2,
+             "name":"JavaScript",
+             "value":15
+            },
+            {"index":3,
+             "name":"Angular",
+             "value":25
+            }
+        ],
+        "aptitudes":[
+            {"index":0,
+            "name":"trabajo en equipo",
+            "value":45
+           },
+           {"index":1,
+              "name":"creatividad",
+              "value":28
+             },
+             {"index":2,
+              "name":"planificacion",
+              "value":25
+             },
+             {"index":3,
+              "name":"autonomia",
+              "value":38
+             }
+        ],
+        "proyectos": [
+            {"index":0,
+             "name":"porfolio",
+             "link":"https://github.com/ISMorras98/PortfolioFrontend" 
+            },
+            {"index":1,
+             "name":"proyecto 2",
+             "link":"https://github.com/ISMorras98"
+            },
+            {"index":2,
+             "name":"proyecto 3",
+             "link":"https://github.com/ISMorras98"
+            }
+        ],
+        "github":"https://github.com/ISMorras98/",
+        "redsocial":"https://www.instagram.com/iniamorras/",
+        "discord":"Iñaki Santiago#6749",
+        "mail":"mailto:iniamorras@gmail.com",
+        "derechos":"creado por Iñaki Santiago Morras (2023)"
+    }
